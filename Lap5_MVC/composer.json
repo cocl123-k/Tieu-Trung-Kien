@@ -1,0 +1,11 @@
+{
+    "name": "atomb/lap5_mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}
